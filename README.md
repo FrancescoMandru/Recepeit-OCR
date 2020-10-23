@@ -6,5 +6,7 @@ Every image has its own best parameters. In the images folder there are three ex
 
 ## Install requirements.txt
 
+Run pip install -r requirements.txt
+
 ## Run python main.py
 Inside the utils file you you can find many different functions, some of them are not used. 
